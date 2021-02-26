@@ -6,3 +6,5 @@ I am a full-stack engineer/designer/hacker/maker working at [Stenon](https://ste
 - 🔭 I’m currently working on fertilizer recommendation systems in our web application
 - 💬 Ask me about geo-spatial data processing, heatmaps and mapping technology
 - 📫 How to reach me: jochen.hartmann@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vomc)](https://github.com/anuraghazra/github-readme-stats)
